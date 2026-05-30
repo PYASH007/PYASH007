@@ -12,6 +12,10 @@
 <a href="https://instagram.com" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" /></a>
 <a href="https://linkedin.com" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>
+### 🚀 About Me
+- ⚡ **Fun fact:** I am setting up this crazy profile right now!
+- 📚 **Learning:** HTML, CSS, JavaScript, and Python.
+- 🎯 **Goal:** To build awesome, high-tech projects. 
 
 ### 🛠️ Tech I'm Learning
 <p align="left">
