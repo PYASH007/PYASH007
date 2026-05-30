@@ -1,11 +1,11 @@
 # ⚡ Welcome to my profile!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi,+I'm+PYASH007!;Welcome+to+my+universe!+🚀;Let's+build+something+crazy!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi,+I'm+PYASH007!;Welcome+to+my+universe!+🚀;Let's+build+something+crazy!" alt="Typing SVG" />
 </p>
 
 ### 📊 My GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PYASH007&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PYASH007&layout=compact&theme=vision-friendly-dark&hide_border=true)
 
 ### 🌐 Connect with Me
 <p align="left">
