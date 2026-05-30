@@ -14,3 +14,5 @@ Hi, I'm PYASH007! Welcome to my crazy GitHub universe. 🚀
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
 </p>
+### 📈 My Activity Graph
+![PYASH007's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PYASH007&theme=tokyonight)
